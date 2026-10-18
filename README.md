@@ -141,6 +141,7 @@ SOCIALS:
 - Piapro: NeonKokoro
 - Here (GitHub): NeonKokoro
 - Geometry Dash: Wyurolli
+- Project SEKAI (Global): i forgot
 - Nintendo Switch: i forgot
 
 SOCIAL GRAVEYARD (do NOT attempt to contact these):
