@@ -16,7 +16,7 @@ Hello hello, I am Wyutsu, a single developer who handles a BUNCH of stuff, not l
 - 🗓️ And I also recently got into stop motion!
 
 I'm also the creator of...
-- 📺 MochiYuki Network Labs, Inc (formerly NeonKokoro, Inc.): My personal studio for everything I do
+- 📺 Hino Softworks, Inc. (formerly MochiYuki Network Labs, Inc.): My personal studio for everything I do
 - ♦️ Mochi Otakucore Entertainment: Division of MochiYuki that handles the entertaining stuff
 - 🎮 MOIKA (formely NEOGA): Division of MochiYuki that handles game development
 - 🌸 NeonKokoro: A social site with a classic spreadsheet as a feed
