@@ -17,15 +17,15 @@ Hello hello, I am Wyutsu, a single developer who handles a BUNCH of stuff, not l
 
 I'm also the creator of...
 - 📺 Hino Softworks, Inc. (formerly MochiYuki Network Labs, Inc.): My personal studio for everything I do
-- ♦️ Mochi Otakucore Entertainment: Division of MochiYuki that handles the entertaining stuff
-- 🎮 MOIKA (formely NEOGA): Division of MochiYuki that handles game development
+- ♦️ Mochi Otakucore Entertainment: Division of Hino Softworks that handles the entertaining stuff
+- 🎮 MOIKA (formely NEOGA): Division of Hino Softworks that handles game development
 - 🌸 NeonKokoro: A social site with a classic spreadsheet as a feed
 - 🖌️ MOCHIKOMA (formerly NeonKokoro KOMIK): English comic/colored manga panel series that features the MochiYuki/Planet Mochistar characters and their activities and adventures
 - ⭐️ Planet Mochistar: The fictional world where all the MochiYuki characters live
 - 🎙️ CKV Project: A UTAUloid project of a virtual singer group currently consisting of Akira Sakai, Akiriko Saki, and Yawarakai Mochi
 
 And the sophisticated lore of Mochistar...
-MochiStar is the main planet in the MochiYuki universe where the OCs come to hang out at. Only the human characters can speak both English and Japanese. The household where the MochiYuki family is are in the MochiYuki Infinite Circle building in the Staff Only section.
+MochiStar is the main planet in the Hinosoft universe where the OCs come to hang out at. Only the human characters can speak both English and Japanese. The household where the Hinosoft family is are in the Hinosoft Labo building in the Staff Only section.
 
 Current roster:
 - 📦 Wyutsu - Male - Human
